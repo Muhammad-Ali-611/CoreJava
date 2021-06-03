@@ -1,6 +1,6 @@
 package Java;
 
-public class LargstAmongThreeNumbers {
+public class LargestAmongThreeNumbers {
 
     public static void main(String[] args) {
 
